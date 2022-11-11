@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2587" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2457" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.footnote,footer{justify-content:flex-end}.footnote{width:100%;font-size:12px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper,.ct-chart{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.ct-chart{margin-left:-12px}.ct-chart-pie .ct-label{fill:rgba(255,255,255,.8)!important;color:rgba(255,255,255,.8)!important}.ct-line,.ct-point{stroke-width:2px!important;stroke:#58a6ff!important}.ct-point{stroke:#106cbc!important}.ct-area{fill:#58a6ff!important}.ct-label{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important}.ct-label.ct-horizontal{text-anchor:middle!important}.ct-grid{stroke:rgba(127,127,127,.4)!important}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}.ct-label{font-size:.75rem;line-height:1}.ct-line{fill:none}.ct-chart-line .ct-label{display:block;display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex}.ct-chart-pie .ct-label{dominant-baseline:central}.ct-label.ct-horizontal.ct-end,.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-start;-webkit-align-items:flex-start;-ms-flex-align:flex-start;align-items:flex-start;-webkit-box-pack:flex-start;-webkit-justify-content:flex-start;-ms-flex-pack:flex-start;justify-content:flex-start;text-align:left;text-anchor:start}.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-end;-webkit-align-items:flex-end;-ms-flex-align:flex-end;align-items:flex-end}.ct-grid{stroke-width:1px;stroke-dasharray:2px}.ct-point{stroke-linecap:round}.ct-line{}.ct-area{stroke:none;fill-opacity:.1}.ct-legend{margin-top:1em}.ct-series-a .ct-line,.ct-series-a .ct-point{background-color:#87ceeb;stroke:#87ceeb}.ct-series-a .ct-area,.ct-series-a .ct-slice-pie{fill:#87ceeb}.ct-series-b .ct-line,.ct-series-b .ct-point{background-color:#32cd32;stroke:#32cd32}.ct-series-b .ct-area,.ct-series-b .ct-slice-pie{fill:#32cd32}.ct-series-c .ct-line,.ct-series-c .ct-point{background-color:#cd5c5c;stroke:#cd5c5c}.ct-series-c .ct-area,.ct-series-c .ct-slice-pie{fill:#cd5c5c}.ct-series-d .ct-line,.ct-series-d .ct-point{background-color:gold;stroke:gold}.ct-series-d .ct-area,.ct-series-d .ct-slice-pie{fill:gold}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.footnote,footer{justify-content:flex-end}.footnote{width:100%;font-size:12px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper,.ct-chart{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.ct-chart{margin-left:-12px}.ct-chart-pie .ct-label{fill:rgba(255,255,255,.8)!important;color:rgba(255,255,255,.8)!important}.ct-line,.ct-point{stroke-width:2px!important;stroke:#58a6ff!important}.ct-point{stroke:#106cbc!important}.ct-area{fill:#58a6ff!important}.ct-label{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important}.ct-label.ct-horizontal{text-anchor:middle!important}.ct-grid{stroke:rgba(127,127,127,.4)!important}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}.ct-label{font-size:.75rem;line-height:1}.ct-line{fill:none}.ct-chart-line .ct-label{display:block;display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex}.ct-chart-pie .ct-label{dominant-baseline:central}.ct-label.ct-horizontal.ct-end,.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-start;-webkit-align-items:flex-start;-ms-flex-align:flex-start;align-items:flex-start;-webkit-box-pack:flex-start;-webkit-justify-content:flex-start;-ms-flex-pack:flex-start;justify-content:flex-start;text-align:left;text-anchor:start}.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-end;-webkit-align-items:flex-end;-ms-flex-align:flex-end;align-items:flex-end}.ct-grid{stroke-width:1px;stroke-dasharray:2px}.ct-point{stroke-linecap:round}.ct-line{}.ct-area{stroke:none;fill-opacity:.1}.ct-legend{margin-top:1em}.ct-series-a .ct-line,.ct-series-a .ct-point{background-color:#87ceeb;stroke:#87ceeb}.ct-series-a .ct-area,.ct-series-a .ct-slice-pie{fill:#87ceeb}.ct-series-b .ct-line,.ct-series-b .ct-point{background-color:#32cd32;stroke:#32cd32}.ct-series-b .ct-area,.ct-series-b .ct-slice-pie{fill:#32cd32}.ct-series-c .ct-line,.ct-series-c .ct-point{background-color:#cd5c5c;stroke:#cd5c5c}.ct-series-c .ct-area,.ct-series-c .ct-slice-pie{fill:#cd5c5c}.ct-series-d .ct-line,.ct-series-d .ct-point{background-color:gold;stroke:gold}.ct-series-d .ct-area,.ct-series-d .ct-slice-pie{fill:gold}.ct-series-e .ct-line,.ct-series-e .ct-point{background-color:orange;stroke:orange}.ct-series-e .ct-area,.ct-series-e .ct-slice-pie{fill:orange}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -83,7 +83,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            123 Commits
+                            125 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -185,13 +185,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    58.9 MB used
+                                    59.3 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    349k added, 13.7k removed
+                                    298k added, 7.72k removed
                                 </div>
                             </section>
                             <section>
@@ -223,7 +223,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    174 views in last two weeks
+                                    167 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -256,16 +256,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.82kb of code in 26 edited files across 127 commits over last 86 days</small>
+                <small>estimation from 32.8kb of code in 40 edited files across 129 commits over last 86 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="375.35999999999996" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="375.35999999999996" y="0" width="48.50909090909091" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="423.8690909090909" y="0" width="27.43272727272727" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="451.30181818181813" y="0" width="8.69818181818182" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="420.9464922711058" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="420.9464922711058" y="0" width="15.862068965517242" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="436.80856123662306" y="0" width="11.3769322235434" height="8" fill="#a86454"/>
+                    <rect mask="url(#languages-bar)" x="448.1854934601664" y="0" width="8.970273483947683" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="457.1557669441141" y="0" width="2.84423305588585" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -277,9 +278,9 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>36 lines</div>
-                                <div>1.12 kB</div>
-                                <div>81.6%</div>
+                                <div>127 lines</div>
+                                <div>3.85 kB</div>
+                                <div>91.51%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -292,7 +293,20 @@
                             <small>
                                 <div>9 lines</div>
                                 <div>145 bytes</div>
-                                <div>10.55%</div>
+                                <div>3.45%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#a86454" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Pug
+                            </div>
+                            <small>
+                                <div>2 lines</div>
+                                <div>104 bytes</div>
+                                <div>2.47%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -305,7 +319,7 @@
                             <small>
                                 <div>4 lines</div>
                                 <div>82 bytes</div>
-                                <div>5.96%</div>
+                                <div>1.95%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -318,7 +332,7 @@
                             <small>
                                 <div>1 line</div>
                                 <div>26 bytes</div>
-                                <div>1.89%</div>
+                                <div>0.62%</div>
                             </small>
                         </div>
                     </section>
@@ -450,12 +464,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 85 commits)</small>
+                    <small class="h-details">(computed from last 87 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 44.2 characters per line of code written</li>
+                        <li>Has approximately 43.8 characters per line of code written</li>
                         <li>Mostly pushes code around 18:00</li>
                         <li>Mostly active on Friday</li>
                     </ul>
@@ -477,8 +491,8 @@
                                 </g>
                                 <g>
                                     <g class="ct-series ct-series-a">
-                                        <path d="M30,125L30,64.5C36.304,77.333,42.609,95.3,48.913,103C55.217,110.7,61.522,119.5,67.826,119.5C74.13,119.5,80.435,119.5,86.739,119.5C93.043,119.5,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,125,162.391,125C168.696,125,175,125,181.304,125C187.609,125,193.913,125,200.217,125C206.522,125,212.826,125,219.13,125C225.435,125,231.739,125,238.043,125C244.348,125,250.652,97.5,256.957,97.5C263.261,97.5,269.565,114,275.87,114C282.174,114,288.478,114,294.783,114C301.087,114,307.391,114,313.696,114C320,114,326.304,114,332.609,114C338.913,114,345.217,114,351.522,114C357.826,114,364.13,15,370.435,15C376.739,15,383.043,69.295,389.348,75.5C395.652,81.705,401.957,82.1,408.261,86.5C414.565,90.9,420.87,103,427.174,103C433.478,103,439.783,94.444,446.087,92C452.391,89.556,458.696,88.333,465,86.5L465,125Z" class="ct-area"/>
-                                        <path d="M30,64.5C36.304,77.333,42.609,95.3,48.913,103C55.217,110.7,61.522,119.5,67.826,119.5C74.13,119.5,80.435,119.5,86.739,119.5C93.043,119.5,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,125,162.391,125C168.696,125,175,125,181.304,125C187.609,125,193.913,125,200.217,125C206.522,125,212.826,125,219.13,125C225.435,125,231.739,125,238.043,125C244.348,125,250.652,97.5,256.957,97.5C263.261,97.5,269.565,114,275.87,114C282.174,114,288.478,114,294.783,114C301.087,114,307.391,114,313.696,114C320,114,326.304,114,332.609,114C338.913,114,345.217,114,351.522,114C357.826,114,364.13,15,370.435,15C376.739,15,383.043,69.295,389.348,75.5C395.652,81.705,401.957,82.1,408.261,86.5C414.565,90.9,420.87,103,427.174,103C433.478,103,439.783,94.444,446.087,92C452.391,89.556,458.696,88.333,465,86.5" class="ct-line"/>
+                                        <path d="M30,125L30,64.5C36.304,77.333,42.609,95.3,48.913,103C55.217,110.7,61.522,119.5,67.826,119.5C74.13,119.5,80.435,119.5,86.739,119.5C93.043,119.5,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,125,162.391,125C168.696,125,175,125,181.304,125C187.609,125,193.913,125,200.217,125C206.522,125,212.826,125,219.13,125C225.435,125,231.739,125,238.043,125C244.348,125,250.652,97.5,256.957,97.5C263.261,97.5,269.565,114,275.87,114C282.174,114,288.478,114,294.783,114C301.087,114,307.391,103,313.696,103C320,103,326.304,114,332.609,114C338.913,114,345.217,114,351.522,114C357.826,114,364.13,15,370.435,15C376.739,15,383.043,69.295,389.348,75.5C395.652,81.705,401.957,82.1,408.261,86.5C414.565,90.9,420.87,103,427.174,103C433.478,103,439.783,94.444,446.087,92C452.391,89.556,458.696,88.333,465,86.5L465,125Z" class="ct-area"/>
+                                        <path d="M30,64.5C36.304,77.333,42.609,95.3,48.913,103C55.217,110.7,61.522,119.5,67.826,119.5C74.13,119.5,80.435,119.5,86.739,119.5C93.043,119.5,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,125,162.391,125C168.696,125,175,125,181.304,125C187.609,125,193.913,125,200.217,125C206.522,125,212.826,125,219.13,125C225.435,125,231.739,125,238.043,125C244.348,125,250.652,97.5,256.957,97.5C263.261,97.5,269.565,114,275.87,114C282.174,114,288.478,114,294.783,114C301.087,114,307.391,103,313.696,103C320,103,326.304,114,332.609,114C338.913,114,345.217,114,351.522,114C357.826,114,364.13,15,370.435,15C376.739,15,383.043,69.295,389.348,75.5C395.652,81.705,401.957,82.1,408.261,86.5C414.565,90.9,420.87,103,427.174,103C433.478,103,439.783,94.444,446.087,92C452.391,89.556,458.696,88.333,465,86.5" class="ct-line"/>
                                         <line x1="30" y1="64.5" x2="30.01" y2="64.5" class="ct-point" ct:value="11"/>
                                         <line x1="48.913043478260875" y1="103" x2="48.92304347826087" y2="103" class="ct-point" ct:value="4"/>
                                         <line x1="67.82608695652175" y1="119.5" x2="67.83608695652175" y2="119.5" class="ct-point" ct:value="1"/>
@@ -494,7 +508,7 @@
                                         <line x1="256.95652173913044" y1="97.5" x2="256.9665217391304" y2="97.5" class="ct-point" ct:value="5"/>
                                         <line x1="275.8695652173913" y1="114" x2="275.8795652173913" y2="114" class="ct-point" ct:value="2"/>
                                         <line x1="294.7826086956522" y1="114" x2="294.7926086956522" y2="114" class="ct-point" ct:value="2"/>
-                                        <line x1="313.69565217391306" y1="114" x2="313.70565217391305" y2="114" class="ct-point" ct:value="2"/>
+                                        <line x1="313.69565217391306" y1="103" x2="313.70565217391305" y2="103" class="ct-point" ct:value="4"/>
                                         <line x1="332.60869565217394" y1="114" x2="332.6186956521739" y2="114" class="ct-point" ct:value="2"/>
                                         <line x1="351.5217391304348" y1="114" x2="351.5317391304348" y2="114" class="ct-point" ct:value="2"/>
                                         <line x1="370.4347826086957" y1="15" x2="370.4447826086957" y2="15" class="ct-point" ct:value="20"/>
@@ -503,7 +517,7 @@
                                         <line x1="427.1739130434783" y1="103" x2="427.1839130434783" y2="103" class="ct-point" ct:value="4"/>
                                         <line x1="446.0869565217392" y1="92" x2="446.0969565217392" y2="92" class="ct-point" ct:value="6"/>
                                         <line x1="465.00000000000006" y1="86.5" x2="465.01000000000005" y2="86.5" class="ct-point" ct:value="7"/>
-                                    <text x="30" y="59.5" class="ct-post">11</text><text x="48.913043478260875" y="98" class="ct-post">4</text><text x="67.82608695652175" y="114.5" class="ct-post">1</text><text x="86.73913043478261" y="114.5" class="ct-post">1</text><text x="256.95652173913044" y="92.5" class="ct-post">5</text><text x="275.8695652173913" y="109" class="ct-post">2</text><text x="294.7826086956522" y="109" class="ct-post">2</text><text x="313.69565217391306" y="109" class="ct-post">2</text><text x="332.60869565217394" y="109" class="ct-post">2</text><text x="351.5217391304348" y="109" class="ct-post">2</text><text x="370.4347826086957" y="10" class="ct-post">20</text><text x="389.34782608695656" y="70.5" class="ct-post">9</text><text x="408.26086956521743" y="81.5" class="ct-post">7</text><text x="427.1739130434783" y="98" class="ct-post">4</text><text x="446.0869565217392" y="87" class="ct-post">6</text><text x="465.00000000000006" y="81.5" class="ct-post">7</text></g>
+                                    <text x="30" y="59.5" class="ct-post">11</text><text x="48.913043478260875" y="98" class="ct-post">4</text><text x="67.82608695652175" y="114.5" class="ct-post">1</text><text x="86.73913043478261" y="114.5" class="ct-post">1</text><text x="256.95652173913044" y="92.5" class="ct-post">5</text><text x="275.8695652173913" y="109" class="ct-post">2</text><text x="294.7826086956522" y="109" class="ct-post">2</text><text x="313.69565217391306" y="98" class="ct-post">4</text><text x="332.60869565217394" y="109" class="ct-post">2</text><text x="351.5217391304348" y="109" class="ct-post">2</text><text x="370.4347826086957" y="10" class="ct-post">20</text><text x="389.34782608695656" y="70.5" class="ct-post">9</text><text x="408.26086956521743" y="81.5" class="ct-post">7</text><text x="427.1739130434783" y="98" class="ct-post">4</text><text x="446.0869565217392" y="87" class="ct-post">6</text><text x="465.00000000000006" y="81.5" class="ct-post">7</text></g>
                                 </g>
                                 <g class="ct-labels">
                                     <text x="30" y="145" width="18.91304347826087" height="20" class="ct-label ct-horizontal ct-end">0</text>
@@ -546,22 +560,23 @@
                                     <!-- (optimized css) -->
                                     <g class="ct-grids">
                                         <line y1="125" y2="125" x1="30" x2="201" class="ct-grid ct-vertical"/>
-                                        <line y1="88.33333333333334" y2="88.33333333333334" x1="30" x2="201" class="ct-grid ct-vertical"/>
-                                        <line y1="51.66666666666667" y2="51.66666666666667" x1="30" x2="201" class="ct-grid ct-vertical"/>
+                                        <line y1="97.5" y2="97.5" x1="30" x2="201" class="ct-grid ct-vertical"/>
+                                        <line y1="70" y2="70" x1="30" x2="201" class="ct-grid ct-vertical"/>
+                                        <line y1="42.5" y2="42.5" x1="30" x2="201" class="ct-grid ct-vertical"/>
                                         <line y1="15" y2="15" x1="30" x2="201" class="ct-grid ct-vertical"/>
                                     </g>
                                     <g>
                                         <g class="ct-series ct-series-a">
-                                            <path d="M30,125L30,92C39.5,100.556,49,117.667,58.5,117.667C68,117.667,77.5,95.667,87,95.667C96.5,95.667,106,103,115.5,103C125,103,134.5,51.507,144,40.667C153.5,29.826,163,18.667,172.5,18.667C182,18.667,191.5,70,201,95.667L201,125Z" class="ct-area"/>
-                                            <path d="M30,92C39.5,100.556,49,117.667,58.5,117.667C68,117.667,77.5,95.667,87,95.667C96.5,95.667,106,103,115.5,103C125,103,134.5,51.507,144,40.667C153.5,29.826,163,18.667,172.5,18.667C182,18.667,191.5,70,201,95.667" class="ct-line"/>
-                                            <line x1="30" y1="92" x2="30.01" y2="92" class="ct-point" ct:value="9"/>
-                                            <line x1="58.5" y1="117.66666666666667" x2="58.51" y2="117.66666666666667" class="ct-point" ct:value="2"/>
-                                            <line x1="87" y1="95.66666666666667" x2="87.01" y2="95.66666666666667" class="ct-point" ct:value="8"/>
-                                            <line x1="115.5" y1="103" x2="115.51" y2="103" class="ct-point" ct:value="6"/>
-                                            <line x1="144" y1="40.66666666666667" x2="144.01" y2="40.66666666666667" class="ct-point" ct:value="23"/>
-                                            <line x1="172.5" y1="18.66666666666667" x2="172.51" y2="18.66666666666667" class="ct-point" ct:value="29"/>
-                                            <line x1="201" y1="95.66666666666667" x2="201.01" y2="95.66666666666667" class="ct-point" ct:value="8"/>
-                                        <text x="30" y="87" class="ct-post">9</text><text x="58.5" y="112.66666666666667" class="ct-post">2</text><text x="87" y="90.66666666666667" class="ct-post">8</text><text x="115.5" y="98" class="ct-post">6</text><text x="144" y="35.66666666666667" class="ct-post">23</text><text x="172.5" y="13.666666666666671" class="ct-post">29</text><text x="201" y="90.66666666666667" class="ct-post">8</text></g>
+                                            <path d="M30,125L30,100.25C39.5,106.667,49,119.5,58.5,119.5C68,119.5,77.5,103,87,103C96.5,103,106,108.5,115.5,108.5C125,108.5,134.5,71.723,144,61.75C153.5,51.777,163,39.75,172.5,39.75C182,39.75,191.5,81.917,201,103L201,125Z" class="ct-area"/>
+                                            <path d="M30,100.25C39.5,106.667,49,119.5,58.5,119.5C68,119.5,77.5,103,87,103C96.5,103,106,108.5,115.5,108.5C125,108.5,134.5,71.723,144,61.75C153.5,51.777,163,39.75,172.5,39.75C182,39.75,191.5,81.917,201,103" class="ct-line"/>
+                                            <line x1="30" y1="100.25" x2="30.01" y2="100.25" class="ct-point" ct:value="9"/>
+                                            <line x1="58.5" y1="119.5" x2="58.51" y2="119.5" class="ct-point" ct:value="2"/>
+                                            <line x1="87" y1="103" x2="87.01" y2="103" class="ct-point" ct:value="8"/>
+                                            <line x1="115.5" y1="108.5" x2="115.51" y2="108.5" class="ct-point" ct:value="6"/>
+                                            <line x1="144" y1="61.75" x2="144.01" y2="61.75" class="ct-point" ct:value="23"/>
+                                            <line x1="172.5" y1="39.75" x2="172.51" y2="39.75" class="ct-point" ct:value="31"/>
+                                            <line x1="201" y1="103" x2="201.01" y2="103" class="ct-point" ct:value="8"/>
+                                        <text x="30" y="95.25" class="ct-post">9</text><text x="58.5" y="114.5" class="ct-post">2</text><text x="87" y="98" class="ct-post">8</text><text x="115.5" y="103.5" class="ct-post">6</text><text x="144" y="56.75" class="ct-post">23</text><text x="172.5" y="34.75" class="ct-post">31</text><text x="201" y="98" class="ct-post">8</text></g>
                                     </g>
                                     <g class="ct-labels">
                                         <text x="30" y="145" width="28.5" height="20" class="ct-label ct-horizontal ct-end">Sun</text>
@@ -584,22 +599,26 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M39.357,49.782A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.7069943289224953"/>
+                                        <path d="M69.863,15.42A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.11787771106482049"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M55.179,26.755A75,75,0,0,0,39.252,50.022L108,80Z" class="ct-slice-pie" ct:value="0.0516698172652804"/>
+                                        <path d="M78.042,11.243A75,75,0,0,0,69.638,15.554L108,80Z" class="ct-slice-pie" ct:value="0.0025119470653106237"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M99.11,5.529A75,75,0,0,0,54.994,26.94L108,80Z" class="ct-slice-pie" ct:value="0.09136735979836169"/>
+                                        <path d="M93.523,6.411A75,75,0,0,0,77.802,11.348L108,80Z" class="ct-slice-pie" ct:value="0.004441857615488298"/>
                                     </g>
                                     <g class="ct-series ct-series-d">
-                                        <path d="M108,5A75,75,0,0,0,98.85,5.56L108,80Z" class="ct-slice-pie" ct:value="0.01638311279143037"/>
+                                        <path d="M96.392,5.904A75,75,0,0,0,93.266,6.462L108,80Z" class="ct-slice-pie" ct:value="0.0007964710207082465"/>
+                                    </g>
+                                    <g class="ct-series ct-series-e">
+                                        <path d="M108,5A75,75,0,0,0,96.133,5.945L108,80Z" class="ct-slice-pie" ct:value="0.003185884082832986"/>
                                     </g>
                                     <g>
-                                        <text dx="128.48978800253508" dy="111.40730150158032" text-anchor="middle" class="ct-label">JavaScript</text>
-                                        <text dx="77.09324600118487" dy="58.762708335177834" text-anchor="middle" class="ct-label">SCSS</text>
-                                        <text dx="91.68526233033202" dy="46.23493914162279" text-anchor="middle" class="ct-label">Shell</text>
-                                        <text dx="105.77363519014736" dy="42.566147677089795" text-anchor="middle" class="ct-label">HTML</text>
+                                        <text dx="117.88375384449633" dy="116.17404331756963" text-anchor="middle" class="ct-label">JavaScript</text>
+                                        <text dx="90.94415999232272" dy="46.603168988173216" text-anchor="middle" class="ct-label">SCSS</text>
+                                        <text dx="96.82563342023776" dy="44.20358214093074" text-anchor="middle" class="ct-label">Shell</text>
+                                        <text dx="101.47746379995571" dy="43.07160277619523" text-anchor="middle" class="ct-label">HTML</text>
+                                        <text dx="105.08920643825911" dy="42.613140265048635" text-anchor="middle" class="ct-label">Pug</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
@@ -668,7 +687,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~0.74
+                            Average per day at ~0.73
                         </div>
                     </section>
                 </div>
@@ -1634,10 +1653,10 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.375 0,1.375 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.375 1.7,2.375 z"/>
                             </g>
-                            <g transform="translate(-6.8, 5.875)">
+                            <g transform="translate(-6.8, 6.625)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,6.125 0,5.125 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,5.125 1.7,6.125 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.375 0,4.375 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.375 1.7,5.375 z"/>
                             </g>
                         </g>
                     </g>
@@ -1831,84 +1850,18 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">Tasnimul-Hasan/.dotfiles</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#980e118</div>
-                                        <div class="message">M scripts/main.sh
- M scripts/node.sh</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#acdf66f</div>
-                                        <div class="message">MM main.sh</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aa05363</div>
-                                        <div class="message">Commited at 07:11:50</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 6 commits in
-                                        <span class="repo">Tasnimul-Hasan/.dotfiles</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7d4ca3b</div>
-                                        <div class="message">Update install.sh</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#44fc318</div>
-                                        <div class="message">Update node.sh</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c42fa5a</div>
-                                        <div class="message">Update install.sh</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eabd571</div>
-                                        <div class="message">Update node.sh</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d553700</div>
-                                        <div class="message">Update node.sh</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#88002d7</div>
-                                        <div class="message">Update node.sh</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Tasnimul-Hasan/.dotfiles</span>
+                                        <span class="repo">Tasnimul-Hasan/simple-node-server</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1ed4914</div>
-                                        <div class="message">Update node.sh</div>
+                                        <div class="sha">#b5dadf5</div>
+                                        <div class="message">M .gitignore
+?? index.js
+?? package.json
+?? yarn.lock</div>
                                     </div>
                                 </div>
                             </section>
@@ -1924,7 +1877,58 @@
                       branch
                                         <span class="code">main</span>
                                         in
-                                        <span class="repo">Tasnimul-Hasan/product-page</span>
+                                        <span class="repo">Tasnimul-Hasan/simple-node-server</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      repository
+                                        <span class="repo">Tasnimul-Hasan/simple-node-server</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Tasnimul-Hasan/natours</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e346644</div>
+                                        <div class="message">M .prettierrc
+ M controllers/userController.js
+ M models/userModel.js
+ M package-lock.json
+ M package.json
+ M public/js/bundle.js
+ M public/js/bundle.js.map
+ M public/js/index.js
+ M routes/userRoutes.js
+ M views/account.pug
+ M yarn.lock
+?? public/img/users/user-5c8a1f292f8fb814b56fa184-1668153999996.jpeg
+?? public/img/users/user-5c8a21f22f8fb814b56fa18a-1668156758583.jpeg
+?? public/img/users/user-5c8a21f22f8fb814b56fa18a-1668158273469.jpeg
+?? public/img/users/user-5c8a21f22f8fb814b56fa18a-1668158315596.jpeg
+?? public/img/users/user-636e04f476045f54f1394c97-1668154955018.jpeg
+?? public/img/users/user-636e04f476045f54f1394c97-1668155153798.jpeg
+?? public/img/users/user-636e04f476045f54f1394c97-1668155573099.jpeg</div>
                                     </div>
                                 </div>
                             </section>
@@ -2417,7 +2421,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Nov 2022, 15:09:17 (timezone Asia/Dhaka) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 11 Nov 2022, 16:09:26 (timezone Asia/Dhaka) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
