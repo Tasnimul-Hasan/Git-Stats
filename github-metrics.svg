@@ -191,7 +191,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    351k added, 13.9k removed
+                                    18k added, 7.72k removed
                                 </div>
                             </section>
                             <section>
@@ -262,11 +262,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="420.9464922711058" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="420.9464922711058" y="0" width="15.862068965517242" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="436.80856123662306" y="0" width="11.3769322235434" height="8" fill="#a86454"/>
-                    <rect mask="url(#languages-bar)" x="448.1854934601664" y="0" width="8.970273483947683" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="457.1557669441141" y="0" width="2.84423305588585" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="421.9499404052443" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="421.9499404052443" y="0" width="15.899880810488677" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="437.84982121573296" y="0" width="11.404052443384982" height="8" fill="#a86454"/>
+                    <rect mask="url(#languages-bar)" x="449.25387365911797" y="0" width="7.895113230035757" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="457.1489868891537" y="0" width="2.8510131108462455" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -280,7 +280,7 @@
                             <small>
                                 <div>127 lines</div>
                                 <div>3.85 kB</div>
-                                <div>91.51%</div>
+                                <div>91.73%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -293,7 +293,7 @@
                             <small>
                                 <div>9 lines</div>
                                 <div>145 bytes</div>
-                                <div>3.45%</div>
+                                <div>3.46%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -306,7 +306,7 @@
                             <small>
                                 <div>2 lines</div>
                                 <div>104 bytes</div>
-                                <div>2.47%</div>
+                                <div>2.48%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -317,9 +317,9 @@
                                 SCSS
                             </div>
                             <small>
-                                <div>4 lines</div>
-                                <div>82 bytes</div>
-                                <div>1.95%</div>
+                                <div>5 lines</div>
+                                <div>72 bytes</div>
+                                <div>1.72%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -574,22 +574,22 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M125.977,7.186A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.004511512134411947"/>
+                                        <path d="M124.685,6.879A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.004470203779634368"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M129.119,8.035A75,75,0,0,0,125.722,7.124L108,80Z" class="ct-slice-pie" ct:value="0.0008089607965152457"/>
+                                        <path d="M127.612,7.61A75,75,0,0,0,124.43,6.822L108,80Z" class="ct-slice-pie" ct:value="0.0008015537811758177"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M95.045,6.127A75,75,0,1,0,128.868,7.962L108,80Z" class="ct-slice-pie" ct:value="0.10855631611698818"/>
+                                        <path d="M95.984,5.969A75,75,0,1,0,127.359,7.542L108,80Z" class="ct-slice-pie" ct:value="0.11671856213583254"/>
                                     </g>
                                     <g class="ct-series ct-series-d">
-                                        <path d="M108,5A75,75,0,0,0,94.787,6.173L108,80Z" class="ct-slice-pie" ct:value="0.003235843186060983"/>
+                                        <path d="M108,5A75,75,0,0,0,95.725,6.011L108,80Z" class="ct-slice-pie" ct:value="0.003206215124703271"/>
                                     </g>
                                     <g>
-                                        <text dx="112.52729562671796" dy="42.774288531872216" text-anchor="middle" class="ct-label">Shell</text>
-                                        <text dx="117.7762384428653" dy="43.79675205305134" text-anchor="middle" class="ct-label">HTML</text>
-                                        <text dx="105.9040546559305" dy="117.4413810257404" text-anchor="middle" class="ct-label">JavaScript</text>
-                                        <text dx="104.74898220559886" dy="42.641187340863105" text-anchor="middle" class="ct-label">Pug</text>
+                                        <text dx="112.19763829444206" dy="42.73567613991858" text-anchor="middle" class="ct-label">Shell</text>
+                                        <text dx="117.07613689481752" dy="43.61492422618125" text-anchor="middle" class="ct-label">HTML</text>
+                                        <text dx="106.05719826601242" dy="117.44963980364051" text-anchor="middle" class="ct-label">JavaScript</text>
+                                        <text dx="104.9862108620108" dy="42.62130185477645" text-anchor="middle" class="ct-label">Pug</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
@@ -2379,7 +2379,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Nov 2022, 12:10:32 (timezone Asia/Dhaka) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 15 Nov 2022, 13:08:15 (timezone Asia/Dhaka) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
