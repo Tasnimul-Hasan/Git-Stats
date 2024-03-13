@@ -1881,7 +1881,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.43m out of 74m repositories</span>
+                                    <span class="gh">ranked 1.43m out of 84.7m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">15</div>
                                     </div>
@@ -1972,7 +1972,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.17m out of 74m repositories</span>
+                                    <span class="gh">ranked 5.17m out of 84.7m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -2048,7 +2048,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Mar 2024, 07:42:04 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Mar 2024, 08:15:59 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
